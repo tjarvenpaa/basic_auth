@@ -1,0 +1,2 @@
+# basic_auth
+basic_auth alpine_httpd_htpasswd harjoitusalusta
